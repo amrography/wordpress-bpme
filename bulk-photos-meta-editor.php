@@ -3,7 +3,7 @@
  * Plugin Name: Bulk Photos Meta Editor
  * Plugin URI: https://www.amrography.com/
  * Description: Edit photos metadata in bulk
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Amro Khaled
  * Author URI: http://amrography.com/
  * Text Domain: bulk-photos-meta-editor
@@ -13,7 +13,7 @@
  * @create date 24-02-2020 11:30:05
  * @modify date 24-02-2020 21:12:40
  * @since 1.0.0
- * @version 1.0.0
+ * @version 1.1.0
  * @path amrography/wp-content/plugins/bulk-photos-meta-editor/bulk-photos-meta-editor.php
  * @desc Bulk photo metadata editor plugin
  * TODO: [] 
